@@ -4,11 +4,11 @@ This repository serves as a central collection of my key data science and machin
 
 ## 🔗 Project Index
 
-| Project | Description |
+| Project | Description |  |
 |--------|-------------|------|
-| [EfficientNetB4.md](./EfficientNetB4.md) | Brain tumor classification using EfficientNetB4 on MRI images | 
-| [ResNet50.md](./ResNet50.md) | Binary brain tumor detection using ResNet50 with frozen base layers | 
-| [ATSFunction.md](./ATSFunction.md) | (In Progress) Halo CME prediction using hybrid CNN-LSTM ATSFusion model with VELC and ASPEX data | 
+| [EfficientNetB4.md](./EfficientNetB4.md) | Brain tumor classification using EfficientNetB4 on MRI images |  |
+| [ResNet50.md](./ResNet50.md) | Binary brain tumor detection using ResNet50 with frozen base layers | |
+| [ATSFunction.md](./ATSFunction.md) | (In Progress) Halo CME prediction using hybrid CNN-LSTM ATSFusion model with VELC and ASPEX data | |
 
 ##  About
 
