@@ -1,3 +1,3 @@
 CLick here :- [Brain Tumor Classification with EfficientNetB4
 GitHub Repo: EfficientNetB4 Brain Tumor Classifier
-]([https://www.kaggle.com/code/rathodriya/efficientnetb4-kaggle-updated](https://www.kaggle.com/code/rathodriya/efficientnetb4-kaggle-updated?scriptVersionId=252307519))
+](https://www.kaggle.com/code/rathodriya/efficientnetb4-kaggle-updated?scriptVersionId=252307519)
